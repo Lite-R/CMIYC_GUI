@@ -1,1 +1,6 @@
-You are a bitch
+Android to MicroController:
+https://adhityareza.wordpress.com/2014/10/21/interfacing-android-with-microcontroller/
+
+JavaFX:
+http://download.java.net/general/javafx/eclipse/tutorial.html
+http://docs.oracle.com/javase/8/javafx/get-started-tutorial/hello_world.htm
